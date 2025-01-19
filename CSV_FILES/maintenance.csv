@@ -1,0 +1,21 @@
+maintenance_id,bike_serial_number,station_name,description,date_start,date_end,cost
+1,378920305,1905 Square,Slipped gear shifter requires replacement of the gear mechanism,2023-01-15,2023-01-16,50
+2,184920176,1905 Square,Broken pedal needs new pedal set,2023-02-10,2023-02-12,30
+3,509723401,1905 Square,Flat tire requires tube replacement,2023-03-05,2023-03-06,15
+4,627591083,1905 Square,Brake pads worn out needs new pads,2023-04-12,2023-04-13,25
+5,804657923,Plotinka,Loose handlebar needs tightening and part replacement,2023-05-08,2023-05-09,20
+6,491260578,Plotinka,Chain stuck requires chain lubrication and adjustment,2023-06-15,2023-06-16,18
+7,587461932,Greenwich Mall,Cracked frame needs welding and repainting,2023-07-20,2023-07-22,100
+8,930572184,Plotinka,Rusty gears needs gear cleaning and lubrication,2023-08-10,2023-08-11,22
+9,614395820,Yeltsin Center,Loose wheel requires wheel tightening,2023-09-15,2023-09-16,16
+10,351706498,Plotinka,Broken bell needs bell replacement,2023-10-02,2023-10-03,8
+11,928317654,1905 Square,Loose saddle needs saddle adjustment,2023-11-08,2023-11-09,10
+12,254738209,Plotinka,Brake lever broken needs new lever,2023-12-12,2023-12-13,35
+13,510938273,Yeltsin Center,Flat tire requires tube and rim check,2024-01-15,2024-01-16,18
+14,738265914,Yeltsin Center,Chain broke needs chain replacement,2024-02-05,2024-02-06,40
+15,492670581,Plotinka,Broken light requires new light installation,2024-03-20,2024-03-21,25
+16,764920518,Yeltsin Center,Handlebar damaged needs part replacement,2024-04-18,2024-04-19,28
+17,923465718,Greenwich Mall,Rusted brake caliper needs new caliper and cleaning,2024-05-30,2024-06-01,55
+18,859172640,Greenwich Mall,Loose pedals requires tightening and lubrication,2024-06-22,2024-06-23,12
+19,316504928,Yeltsin Center,Flat tire needs tire replacement,2024-07-15,2024-07-16,20
+20,248695703,Greenwich Mall,Cracked frame needs welding and repainting,2024-08-10,2024-08-12,90
